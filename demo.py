@@ -59,7 +59,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.quiet:
-        print("Be vewy vewy quiet. I'm hunting wabbits.")
+        print("Shhh. Be vewy, vewy quiet, I'm hunting wabbits...")
     else:
         # What does `args` object "look" like?
         print(
